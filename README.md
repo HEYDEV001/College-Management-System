@@ -4,7 +4,7 @@ A simple Java-based system for managing college information including students, 
 
 ---
 
-## 📋 Project Objective
+##  Project Objective
 
 To build a basic college management system that handles:
 - Student information and records
@@ -14,7 +14,7 @@ To build a basic college management system that handles:
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 College-Management-System/
@@ -31,7 +31,7 @@ College-Management-System/
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - **Student Management** - Add, view, and manage student records
 - **Admission Management** - Handle admission information
@@ -40,7 +40,7 @@ College-Management-System/
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - **Language**: Java
 - **Build Tool**: Maven
@@ -49,7 +49,7 @@ College-Management-System/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -77,7 +77,7 @@ College-Management-System/
 
 ---
 
-## 📁 Basic Structure
+##  Basic Structure
 
 The project includes basic classes for:
 - Student
@@ -87,7 +87,7 @@ The project includes basic classes for:
 
 ---
 
-## 💡 Usage
+##  Usage
 
 After setting up the project, you can manage:
 - Student records
@@ -97,7 +97,7 @@ After setting up the project, you can manage:
 
 ---
 
-## 📝 Notes
+##  Notes
 
 This is a basic college management system project for learning purposes.
 
